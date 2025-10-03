@@ -1,0 +1,9 @@
+# This file indicates that this is an Expo managed workflow project
+# Native build tools (like Gradle) are not required
+# Development should be done using Expo Go
+#
+# Key points:
+# - Use `npm start` to run the app
+# - Test in Expo Go
+# - Native build errors can be ignored
+# - No Android/iOS native configuration needed
